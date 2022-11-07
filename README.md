@@ -12,11 +12,19 @@ Sou desenvolvedor de aplicativos Mobile.
       </a>
 
 <br/>
-      
+
+## Experiências
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; Flutter | Provider | GetX | Responsive Layout | Clean Code <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+   API | POO 
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"title="Firebase" alt="Firebase" width="50" height="43"/>&nbsp;
+  Firebase Auth | Firebase Database | API Rest <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"title="GitHub" color = "green" alt="GitHub" width="50" height="43"/>&nbsp;
+  GitFlow | Git Versioning <br>
+
 
 </div>
       
