@@ -18,13 +18,18 @@ Sou desenvolvedor de aplicativos Mobile.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; Flutter | Provider | GetX | Responsive Layout | Clean Code <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-   API | POO 
+  Dart | API | POO 
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"title="Firebase" alt="Firebase" width="50" height="43"/>&nbsp;
-  Firebase Auth | Firebase Database | API Rest <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"title="GitHub" color = "green" alt="GitHub" width="50" height="43"/>&nbsp;
-  GitFlow | Git Versioning <br>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  Firebase | Firebase Auth | Firebase Database | API Rest <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"title="GitHub" color = "green" alt="GitHub" width="40" height="40"/>&nbsp;
+  GitHub | GitFlow | Git Versioning <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"title="Trello" color = "green" alt="Trello" width="40" height="40"/>&nbsp;
+  Trello | Task Organization <br>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" color = "green" alt="Figma" width="40" height="40"/>&nbsp;
+  Figma | Replicate Screens <br>
+  
+         
 
 </div>
       
