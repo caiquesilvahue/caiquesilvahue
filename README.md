@@ -39,6 +39,9 @@ Sou desenvolvedor de aplicativos Mobile.
    <img src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&count_private=true&theme=aura&show_icons=true"/>
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=aura"/>
+
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=caiquesilvahue&repo=repository-one&theme=aura)](https://github.com/caiquesilvahue/repository-one)  
+
 </div>
 
 <br/>
