@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Mobile (Flutter & Dart)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1vMjdzbWExd3oycGh3cXJoNGdlaWZwdzZidWkycnU5OGs4cGFhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="325" align="right" style="border-radius: 10px;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1vMjdzbWExd3oycGh3cXJoNGdlaWZwdzZidWkycnU5OGs4cGFhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" style="border-radius: 10px;">
 
 - 📚 Atualmente aprofundando em **Flutter/Dart**
 - 👨‍💻 Desenvolvedor na [Meloz](https://meloz.com.br/) | QA Tester
@@ -40,7 +40,7 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=aura&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=aura&hide_border=false&hide=c%2B%2B,c" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=aura" />
 </div>
