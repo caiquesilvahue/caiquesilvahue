@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&theme=aura&include_all_commits=true" width="400" alt="Stats de Caíque" />
-</div>
+
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 # Olá, eu sou o Caíque! 👋
 
@@ -40,7 +40,7 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=blood&hide_border=false&hide=c%2B%2B,c" />
+  <img height="180em" src="https://github-readme-stats-git-masterhstiv2408s-projects.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=blood&hide=c%2B%2B,c,sh" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood" />
 </div>
