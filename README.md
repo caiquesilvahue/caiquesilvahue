@@ -33,15 +33,7 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=false" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=false" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiquesilvahue&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
 
 ## 📫 Vamos nos conectar?
