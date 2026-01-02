@@ -1,7 +1,3 @@
-
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 # Olá, eu sou o Caíque! 👋
 
 ### Desenvolvedor Mobile (Flutter & Dart)
@@ -33,14 +29,12 @@
   </tr>
 </table>
 
----
 
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood" />
 </div>
----
 
 ## 📫 Vamos nos conectar?
 
