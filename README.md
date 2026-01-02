@@ -40,9 +40,9 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=aura&hide_border=false&hide=c%2B%2B,c" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=blood&hide_border=false&hide=c%2B%2B,c" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=aura" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood" />
 </div>
 
 ---
