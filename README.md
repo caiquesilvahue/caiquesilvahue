@@ -6,8 +6,6 @@
 
 ### Desenvolvedor Mobile (Flutter & Dart)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1vMjdzbWExd3oycGh3cXJoNGdlaWZwdzZidWkycnU5OGs4cGFhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" style="border-radius: 10px;">
-
 - 📚 Atualmente aprofundando em **Flutter/Dart**
 - 👨‍💻 Desenvolvedor na [Meloz](https://meloz.com.br/) | QA Tester
 - 🎯 Focado em criar experiências mobile fluidas e escaláveis.
