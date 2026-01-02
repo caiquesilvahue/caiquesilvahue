@@ -37,16 +37,9 @@
 
 ## 📊 Estatísticas e Linguagens
 
-<div align="center">>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&theme=blood&include_all_commits=true&hide_border=false" />
-
+<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood" />
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquesilvahue&layout=compact&theme=blood&hide=c%2B%2B,c,sh" />
-</div>
-
 ---
 
 ## 📫 Vamos nos conectar?
