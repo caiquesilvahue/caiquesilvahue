@@ -33,7 +33,9 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&count_private=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=000000&hide_border=false" />
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 </div>
 
 ## 📫 Vamos nos conectar?
