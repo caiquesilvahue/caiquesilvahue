@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&theme=aura&include_all_commits=true&count_private=true" align="right" width="400" alt="Stats de Caíque" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiquesilvahue&show_icons=true&theme=aura&include_all_commits=true" width="400" alt="Stats de Caíque" />
 </div>
 
 # Olá, eu sou o Caíque! 👋
