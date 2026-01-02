@@ -45,11 +45,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=aura" />
 </div>
 
-<br/>
-
-### 🐍 Minhas Contribuições (Graph)
-![Snake animation](https://github.com/caiquesilvahue/caiquesilvahue/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📫 Vamos nos conectar?
@@ -58,7 +53,7 @@
   <a href="https://www.linkedin.com/in/caiquesilvahue/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:devcaiquesilva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
