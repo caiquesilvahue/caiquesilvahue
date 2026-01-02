@@ -33,7 +33,7 @@
 ## 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesilvahue&theme=blood&background=000000" />
 </div>
 
 ## 📫 Vamos nos conectar?
